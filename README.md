@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagarjun-repala.nagarjun-repala)
 - 👋 Hi, I’m Nagarjun from India, I work at Opsera:computer:
 - 👀 I’m interested in backend development(Java, MySQL, Docker, AWS, Spring Boot) and exploring Open Source projects
-- 🌱 I’m currently learning more on Microservices, Java, LLD, HLD and trying to build so projects on backend development
+- 🌱 I’m currently learning more on Microservices, Java, LLD, HLD and trying to build some projects
 - :raised_hands: I’m looking to collaborate on open source projects
 - 📫 You can always reach me on :email:nagarjun.repala@outlook.com
 
